@@ -12,10 +12,10 @@ I'm passionate about building digital masterpieces through web, application, and
 
 ## Technologies
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Frameworks: React, Vue.js
+- Frontend: HTML, CSS, JavaScript, Typescript
+- Backend: RUST, Node.js, Express.js
+- Database: Postgresql, MongoDB, MySQL
+- Frameworks: React, Nextjs, Vue.js
 - Version Control: Git, GitHub
 
 ## Let's Connect!
