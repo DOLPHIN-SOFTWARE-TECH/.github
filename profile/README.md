@@ -22,7 +22,7 @@ I'm passionate about building digital masterpieces through web, application, and
 
 🚀 If you're passionate about digital innovation and creating masterpieces in the digital realm, let's connect and collaborate on exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshpatelthedev/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=Hugo&logoColor=white)](https://dolphinsoftwaretechnologies.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/DOLPHIN-SOFTWARE-TECH)
 
